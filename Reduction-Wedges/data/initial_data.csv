@@ -1,0 +1,46 @@
+﻿selected,option,category,contribution,cost_category,cost_per_ton,label
+FALSE,wind_low,energy,2,blue,0,Low cost wind
+FALSE,wind_mid,energy,1,yellow,0,Mid cost wind
+FALSE,wind_high,energy,1,orange,0,High cost wind
+FALSE,solar_low,energy,3,blue,0,Low cost solar
+FALSE,solar_mid,energy,1,yellow,0,Mid cost solar
+FALSE,solar_high,energy,1,red,0,High cost solar
+FALSE,biomass,energy,1,red,0,Biomass
+FALSE,hydro,energy,0.5,orange,0,Hydro
+FALSE,geothermal,energy,1,orange,0,Geothermal
+FALSE,nuclear,energy,1,orange,0,Nuclear
+FALSE,ccs_beccs,energy,1,red,0,CCS/BECCS
+FALSE,energy_syst_ch4_reduct_low,energy,1,yellow,0,Low-cost methane reduction (energy system)
+FALSE,energy_syst_ch4_reduct_high,energy,1,orange,0,High-cost methane reduction (energy system)
+FALSE,agri_low,afolu,1,yellow,0,Low cost agricultural system reduction
+FALSE,agri_high_1,afolu,1,orange,0,Mid cost agricultural system reduction
+FALSE,agri_high_2,afolu,1,red,0,High cost agricultural system reduction
+FALSE,agri_high_3,afolu,1,red,0,High cost agricultural system reduction
+FALSE,reduce_methane,afolu,1,orange,0,Methane reduction (agriculture)
+FALSE,reduced_forest_conv_low_1,afolu,1,yellow,0,Low cost reduced forest conversion
+FALSE,reduced_forest_conv_low_2,afolu,1,yellow,0,Low cost reduced forest conversion
+FALSE,reduced_forest_conv_high_1,afolu,1,orange,0,Mid cost reduced forest conversion
+FALSE,reduced_forest_conv_high_2,afolu,1,red,0,High cost reduced forest conversion
+FALSE,restoration_affor_refor_1,afolu,1,orange,0,Low cost reforestation
+FALSE,restoration_affor_refor_2,afolu,1,red,0,Mid cost reforestation
+FALSE,restoration_affor_refor_3,afolu,1,dark,0,High cost reforestation
+FALSE,improve_forest_mgmt,afolu,1,red,0,Improved forest management
+FALSE,food_system,afolu,2,uncertain,0,Food system improvements
+FALSE,avoided_demand,buildings,1,blue,0,Avoided demand
+FALSE,building_efficiency,buildings,1,blue,0,"Efficient lighting, etc"
+FALSE,new_build_efficiency,buildings,1,dark,0,New building energy efficiency
+FALSE,onsite_renewables,buildings,0.5,dark,0,Onsite renewable production
+FALSE,improve_buildings,buildings,0.25,dark,0,Existing building improvements
+FALSE,fuel_efficiency,transport,1,blue,0,Fuel efficient light duty vehicles
+FALSE,shift_from_cars,transport,1,blue,0,"Shift from cars to transit, bikes, e-bikes"
+FALSE,shipping_aviation_efficiency,transport,1,blue,0,Shipping & aviation efficiency
+FALSE,biofuels,transport,1,orange,0,Biofuels
+FALSE,electric_vehicles,transport,1,uncertain,0,Electric light & heavy duty vehicles
+FALSE,energy_efficiency,industry,1,yellow,0,Industrial energy efficiency
+FALSE,material_efficiency,industry,1,orange,0,Material efficiency
+FALSE,enhanced_recycling,industry,1,orange,0,Enhanced industrial recycling
+FALSE,fuel_switch_low,industry,1,orange,0,Low cost industrial fuel switching
+FALSE,fuel_switch_high,industry,1,red,0,High cost industrial fuel switching
+FALSE,other_industrial,industry,1,red,0,Other industrial
+FALSE,fluroinated_gas_reduce,other,1,yellow,0,Reduce emissions of fluorinated gas
+FALSE,methane_reduce,other,1,yellow,0,Reduce methane emissions from waste
